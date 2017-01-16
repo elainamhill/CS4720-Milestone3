@@ -1,0 +1,9 @@
+Elaina Hill (emh2hb)
+
+Milestone 3 Submission Documentation
+
+Since Milestone 2, local data storage is completely implemented. A user may change their city in the settings and that data will be stored when the app is open again. Once opened again, weather data for that city will be displayed. This is the same for the user's screen name. Changing this in the settings will result in the name being displayed once the app is opened again. 
+
+Web service implementation is fully completed. The home screen still loads current weather from the "api.openweathermap.org/data/2.5/weather" endpoint. Clicking on the "3 Hour Forecast Button" now loads appropriate data for the city selected using the "api.openweathermap.org/data/2.5/forecast" endpoint. Clicking on the "Tomorrow's Forecast" loads a new activity showing what the next day's weather will look like from the "api.openweathermap.org/data/2.5/forecast/daily" endpoint.
+
+Layout changes to the application have been made and are ongoing. Previous user requirements still function properly. 
